@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Data-driven discovery of models for collective cell migration
 
-You can use the [editor on GitHub](https://github.com/simonmape/simonmape.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my page! I am a first year D.Phil. student at Oxford Mathematics, supervised by Prof [Ruth Baker](https://www.iamruthbaker.com). My research revolves around equation learning methods for mechanistic models in biology where underlying biological pathways are unknown, but data is abundant. My work encompasses a range of approaches to equation learning. One of these consists of Bayesian methods for parameter estimation using DNNs where traditional computational Bayesian methods are uninformative. Another includes model agnostic methods to derive new governing equations with biologically informed neural networks while establishing careful uncertainty quantification to guide conclusions about the biologically relevant mechanisms. My research included analyzing the impact of gene knockouts on density dependent interactions between cells in a large mRNAi screen, and currently I am working on a model for endogenous electric fields in large populations of cells. 
 
 ### Markdown
 
